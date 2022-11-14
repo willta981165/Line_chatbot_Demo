@@ -1,0 +1,4 @@
+[E 2022-09-01 10:39:28,783 C:\Users\Willta\AppData\Local\Programs\Python\Python310\lib\site-packages\shioaji\utils.py:44:raise_resp_error] {'status': {'status_code': 401}, 'response': {'detail': 'Token is expired.'}}
+[E 2022-09-05 09:29:58,995 C:\Users\Willta\AppData\Local\Programs\Python\Python310\lib\site-packages\shioaji\utils.py:44:raise_resp_error] {'status': {'status_code': 401}, 'response': {'detail': 'Token is expired.'}}
+[E 2022-09-08 10:33:53,479 C:\Users\Willta\AppData\Local\Programs\Python\Python310\lib\site-packages\shioaji\utils.py:44:raise_resp_error] {'status': {'status_code': 401}, 'response': {'detail': 'Token is expired.'}}
+[E 2022-09-10 12:48:11,874 C:\Users\Willta\AppData\Local\Programs\Python\Python310\lib\site-packages\shioaji\utils.py:44:raise_resp_error] {'status': {'status_code': 401}, 'response': {'detail': 'Token is expired.'}}
